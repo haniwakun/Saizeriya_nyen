@@ -1,0 +1,91 @@
+"id","category","name","price","order_number",contains_alcohol,available
+,Appetizer,ほうれん草のソテー,200,1403,false,true
+,Appetizer,柔らか青豆の温サラダ,200,1425,false,true
+,Appetizer,キャロットラペ,200,1413,false,true
+,Appetizer,スイートコーン,200,1435,false,true
+,Appetizer,エスカルゴのオーブン焼き,400,1405,false,true
+,Appetizer,アロスティチーニ,400,1402,false,true
+,Appetizer,アロスティチーニ Wサイズ,800,1452,false,true
+,Appetizer,ムール貝のガーリック焼き,400,1410,false,true
+,Appetizer,辛味チキン,300,1401,false,true
+,Appetizer,チョリソー,400,1407,false,true
+,Appetizer,ポップコーンシュリンプ,300,1404,false,true
+,Appetizer,ポテトのグリル,300,1416,false,true
+,Appetizer,生ハムとバッファローモッツァレラの盛合せ,500,1423,false,true
+,Appetizer,ハモン・セラーノ,320,1422,false,true
+,Appetizer,バッファローモッツァレラのカプレーゼ,430,1417,false,true
+,Appetizer,蒸し鶏の香味ソース,280,1408,false,true
+,Appetizer,小エビのカクテル,280,1406,false,true
+,Drink and Wine,グラスワイン (120ml) 赤,100,3401,true,true
+,Drink and Wine,グラスワイン (120ml) 白,100,3402,true,true
+,Drink and Wine,デカンタ (250ml) 赤,200,3403,true,true
+,Drink and Wine,デカンタ (250ml) 白,200,3404,true,true
+,Drink and Wine,デカンタ (500ml) 赤,400,3405,true,true
+,Drink and Wine,デカンタ (500ml) 白,400,3406,true,true
+,Drink and Wine,マグナム (1500ml) 赤,1100,3407,true,true
+,Drink and Wine,マグナム (1500ml) 白,1100,3408,true,true
+,Drink and Wine,ドンラファエロ,1100,3413,true,true
+,Drink and Wine,ランブルスコロゼ,1100,3412,true,true
+,Drink and Wine,ランブルスコセッコ,1100,3414,true,true
+,Drink and Wine,ベルデッキオ,1100,3415,true,true
+,Drink and Wine,キャンティ,1100,3416,true,true
+,Drink and Wine,キャンティルフィナリゼルバ,2200,3419,true,true
+,Drink and Wine,生ビール キリン一番搾り ジョッキ,400,3301,true,true
+,Drink and Wine,生ビール キリン一番搾り グラスビール,280,3302,true,true
+,Drink and Wine,サワー キリン 氷結シチリア産レモン,350,3304,true,true
+,Drink and Wine,ノンアルコール アサヒ ドライゼロ,250,3303,false,true
+,Drink and Wine,グラッパ,300,3306,true,true
+,Salad,小エビのサラダ,350,1202,false,true
+,Salad,サイゼリヤドレッシング,500,5305,false,true
+,Salad,チキンのサラダ,350,1209,false,true
+,Salad,わかめのサラダ,350,1205,false,true
+,Soup,たまねぎのズッパ,300,1307,false,true
+,Soup,コーンクリームスープ,150,1301,false,true
+,Soup,田舎風ミネストローネ,300,1305,false,true
+,Focaccia,ガーリックフォッカチオ,200,3111,false,true
+,Focaccia,フォッカチオ,150,3110,false,true
+,Focaccia,シナモンフォッカチオ,200,3112,false,true
+,Pizza,バッファローモッツァレラのマルゲリータピザ,400,2203,false,true
+,Pizza,ソーセージピザ,400,2208,false,true
+,Pizza,たっぷりコーンのピザ,400,2206,false,true
+,Pizza,野菜ときのこのピザ,400,2204,false,true
+,Doria and Gratin,ミラノ風ドリア,300,2101,false,true
+,Doria and Gratin,半熟卵のミラノ風ドリア,350,2103,false,true
+,Doria and Gratin,焼チーズ ミラノ風ドリア,350,2108,false,true
+,Doria and Gratin,タラコとポップコーンシュリンプのドリア,400,2110,false,true
+,Doria and Gratin,ポップコーンシュリンプとタラコのクリームグラタン,430,2115,false,true
+,Pasta,タラコソースシシリー風,400,2301,false,true
+,Pasta,トッピング粉チーズ,100,4307,false,true
+,Pasta,トッピング半熟卵,50,4301,false,true
+,Pasta,小エビのタラコソース,540,2320,false,true
+,Pasta,カルボナーラ,500,2305,false,true
+,Pasta,パルマ風スパゲッティ,400,2304,false,true
+,Pasta,きのことほうれん草のクリームスパゲッティ,600,2321,false,true
+,Pasta,イカの墨入りセピアソース,500,2328,false,true
+,Pasta,エクストラ・バージン・オリーブオイル (500ml),1200,5306,false,true
+,Pasta,ミートソースボロニア風,400,2306,false,true
+,Pasta,半熟卵のミートソースボロニア風,450,2316,false,true
+,Pasta,スープ入り塩味ボンゴレ,500,2310,false,true
+,Pasta,ペペロンチーノ,300,2303,false,true
+,Pasta,半熟卵のペペロンチーノ,350,2317,false,true
+,Pasta,ペンネアラビアータ,430,2325,false,true
+,Meat,ミックスグリル,650,2418,false,true
+,Meat,ディアボラ風ハンバーグ,500,2407,false,true
+,Meat,イタリアンハンバーグ,500,2403,false,true
+,Meat,ハンバーグステーキ,400,2406,false,true
+,Meat,若鶏のディアボラ風,500,2402,false,true
+,Meat,トッピング野菜ソース,100,4304,false,true
+,Meat,ラム (仔羊) と野菜のグリル,870,2413,false,true
+,Meat,柔らかチキンのチーズ焼き,500,2404,false,true
+,Meat,ライス,150,3101,false,true
+,Meat,ラージライス,200,3102,false,true
+,Meat,スモールライス,100,3103,false,true
+,Dessert,ティラミス クラシコ,300,3201,false,true
+,Dessert,イタリアンプリン,250,3206,false,true
+,Dessert,プリンとティラミス クラシコの盛合せ,500,3212,false,true
+,Dessert,ミルクジェラート,250,3205,false,true
+,Dessert,トリフアイスクリーム,350,3213,false,true
+,Dessert,チョコレートケーキ,300,3207,false,true
+,Dessert,コーヒーゼリー & ミルクジェラート,350,3215,false,true
+,Dessert,ジェラート & シナモンフォッカチオ,450,3214,false,true
+,,,,,,

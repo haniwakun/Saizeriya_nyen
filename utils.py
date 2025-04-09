@@ -1,4 +1,10 @@
 import random
+import json
+
+# メニューの読み込み
+def load_menu():
+    with open("menu.json", "r", encoding="utf-8") as f:
+        return json.load(f)
 
 # 合計1000円になる注文をランダムに作成
 def generate_order(menu, target=1000, exclude_alcohol=False):
@@ -26,3 +32,4 @@ def generate_order(menu, target=1000, exclude_alcohol=False):
             total += int(item["price"])
     
     return order, total
+

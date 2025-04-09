@@ -120,8 +120,29 @@
 
         <div class="button-container mt-3">
             <a href="/" class="btn btn-secondary bg-light text-dark">戻る</a>
-            <a href="/order?{% if exclude_alcohol %}exclude_alcohol=true&{% endif %}{% if target_price %}target_price={{ target_price }}{% endif %}" class="btn btn-primary bg-primary text-white">もう一度</a>
+            <button id="retryButton" class="btn btn-primary bg-primary text-white">もう一度</button>
         </div>
     </div>
+
+    <script src="/static/utils.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const retryButton = document.getElementById('retryButton');
+
+            retryButton.addEventListener('click', () => {
+                const params = {};
+
+                {% if exclude_alcohol %}
+                    params.exclude_alcohol = 'true';
+                {% endif %}
+
+                {% if target_price %}
+                    params.target_price = '{{ target_price }}';
+                {% endif %}
+
+                window.location.href = buildUrl('/order', params);
+            });
+        });
+    </script>
 </body>
 </html>
